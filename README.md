@@ -16,7 +16,7 @@
 
 <br> 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/r_nareshkumar?theme=nord&font=Poppins&ext=contest)
+<!--![LeetCode Stats](https://leetcard.jacoblin.cool/r_nareshkumar?theme=nord&font=Poppins&ext=contest)-->
 
 [![R-Nareshkumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=R-Nareshkumar&bg_color=2e3440&color=ffffff&line=87ff79&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
