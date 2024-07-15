@@ -12,7 +12,7 @@
 ### Frameworks and libraries:
 <img width="48" height="48" src="https://img.icons8.com/office/48/react.png" alt="react"/> <img width="48" height="48" src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwindcss"/> 
 ### Tools and Technologies
-<img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/> <img width="48" height="48" src="https://img.icons8.com/ios-glyphs/48/github.png" alt="github"/> <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/> <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-sublime-text-a-sophisticated-text-editor-for-code-markup-language-logo-color-tal-revivo.png" alt="external-sublime-text-a-sophisticated-text-editor-for-code-markup-language-logo-color-tal-revivo"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/> <img width="48" height="48" src="https://img.icons8.com/ios-glyphs/48/github.png" alt="github"/> <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/> <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-sublime-text-a-sophisticated-text-editor-for-code-markup-language-logo-color-tal-revivo.png" alt="external-sublime-text-a-sophisticated-text-editor-for-code-markup-language-logo-color-tal-revivo"/> <img width="48" height="48" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/>
 
 <br> 
 
